@@ -12,6 +12,6 @@ btn.addEventListener("click", function () { // function which listens every clic
     document.body.style.backgroundColor = hexColor;
 });
 
-function getRandomNumber() { // function which creates random number depending on 'hex' array length, number is rounded with 'math.floor' to avoid issues 
-    return Math.floor(Math.random() * hex.length);
+function getRandomNumber() { // function which creates random number depending on 'hex' array length
+    return Math.floor(Math.random() * hex.length); // number is rounded with 'math.floor' to avoid issues
 }
