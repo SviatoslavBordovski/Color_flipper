@@ -3,7 +3,7 @@ Sometimes it is not so easy and quickly you can find the best color that is need
 <code>Color_flipper</code> project is solving this problem :wink:
 <ul>
 <li>Two JS scripts</li>
-<li>A bit of HTML</li>
+<li>A bit of HTML tags</li>
 <li>Quite lot of CSS</li>
 </ul>
 <br>
