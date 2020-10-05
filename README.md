@@ -1,5 +1,9 @@
+<!DOCTYPE html>
+<html>
+  
+  <title> Color Flipper </title>
 
-
+<body>
 <p>Sometimes it is not so easy and quickly you can find the best color that is needed for specific label, button and navbar.</p>
 
 <code>Color_flipper</code> project is solving this problem :wink:
@@ -16,3 +20,6 @@
 <br>
 :heavy_check_mark: Suggest your own for array collection
 </div>
+
+</body>
+</html>
