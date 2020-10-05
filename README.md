@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   
-  <title> Color Flipper </title>
+  <header> Color Flipper </header>
 
 <body>
 <p>Sometimes it is not so easy and quickly you can find the best color that is needed for specific label, button and navbar.</p>
