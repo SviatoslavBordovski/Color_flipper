@@ -3,12 +3,12 @@
   
   <header> 
   <h2>Color Flipper</h2> 
-</header>
+  </header>
 
 <body>
 <p>Sometimes it is not so easy and quickly you can find the best color that is needed for specific label, button and navbar.</p>
 
-<code>Color_flipper</code> project is solving this problem :wink:
+<p><code>Color_flipper</code> project is solving this problem :wink:</p>
 <ul>
 <li>Two JS scripts</li>
 <li>A bit of HTML tags</li>
