@@ -18,11 +18,11 @@
 </div>
 <br>
 <div>
- <h6> :heavy_check_mark: Find your simple color</h6>
+ <p> :heavy_check_mark: Find your simple color</p>
 <br>
-:heavy_check_mark: Generate hex colors
+<p> :heavy_check_mark: Generate hex colors
 <br>
-:heavy_check_mark: Suggest your own for array collection
+<p> :heavy_check_mark: Suggest your own for array collection
 </div>
 
 </body>
