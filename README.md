@@ -6,6 +6,7 @@
   </header>
 
 <body>
+  <div>
 <p>Sometimes it is not so easy and quickly you can find the best color that is needed for specific label, button and navbar.</p>
 
 <p><code>Color_flipper</code> project is solving this problem :wink:</p>
@@ -14,6 +15,7 @@
 <li>A bit of HTML tags</li>
 <li>Quite lot of CSS</li>
 </ul>
+</div>
 <br>
 <div>
 :heavy_check_mark: Find your simple color
