@@ -18,7 +18,7 @@
 </div>
 <br>
 <div>
-:heavy_check_mark: Find your simple color
+  :heavy_check_mark: <p>Find your simple color</p>
 <br>
 :heavy_check_mark: Generate hex colors
 <br>
