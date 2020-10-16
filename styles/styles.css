@@ -171,6 +171,7 @@ nav {
   align-items: center;
   box-shadow: var(--dark-shadow);
 }
+
 .nav-center {
   width: 100vw;
   max-width: var(--fixed-width);
@@ -179,13 +180,16 @@ nav {
   align-items: center;
   justify-content: space-between;
 }
+
 .nav-center h4 {
   margin-bottom: 0;
   color: var(--clr-primary-5);
 }
+
 .nav-links {
   display: flex;
 }
+
 nav a {
   text-transform: capitalize;
   font-weight: 700;
@@ -194,6 +198,7 @@ nav a {
   letter-spacing: var(--spacing);
   margin-right: 1rem;
 }
+
 nav a:hover {
   color: var(--clr-primary-5);
 }
