@@ -128,9 +128,13 @@ p {
     line-height: 1;
   }
 }
-/*  Global Classes */
 
-/* Section */
+
+/* 
+=========
+Section 
+=========
+*/
 .section {
   padding: 5rem 0;
 }
