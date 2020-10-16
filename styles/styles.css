@@ -53,6 +53,7 @@ Variables
   --max-width: 1170px;
   --fixed-width: 620px;
 }
+
 /*
 =============== 
 Global Styles
@@ -135,6 +136,7 @@ p {
 Section 
 =========
 */
+
 .section {
   padding: 5rem 0;
 }
@@ -160,6 +162,7 @@ main {
 Nav
 ===============
 */
+
 nav {
   background: var(--clr-primary-1);
   height: 5rem;
