@@ -4,8 +4,8 @@ const btn = document.getElementById("btn");
 const color = document.querySelector(".color");
 
 btn.addEventListener("click", function () { // function which listens every button click
-    //get random number between 0 - 4
-    const randomNumber = getRandomNumber(); //assign the function below which rounds the numbers
+    // get random number between 0 - 4
+    const randomNumber = getRandomNumber(); // assign the function below which rounds the numbers
     console.log(randomNumber);
 
     document.body.style.backgroundColor = colors[randomNumber];
