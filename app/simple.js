@@ -12,6 +12,6 @@ btn.addEventListener("click", function () { // function which listens every butt
     color.textContent = colors[randomNumber];
 });
 
-function getRandomNumber() {
+function getRandomNumber() { // function which is creating random number depending on the 'hex' array length
     return Math.floor(Math.random() * colors.length);
 }
