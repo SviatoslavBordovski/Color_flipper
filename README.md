@@ -19,7 +19,7 @@
 <br>
 <div>
 <p> :heavy_check_mark: Find your simple color </p>
-<p> :heavy_check_mark: Generate hex colors </p>
+<p> :heavy_check_mark: Generate needed hex colors </p>
 <p> :heavy_check_mark: Suggest your own for array collection </p>
 </div>
 
