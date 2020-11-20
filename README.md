@@ -2,7 +2,7 @@
 <html>
   
   <header> 
-  <h2>Color Flipper</h2> 
+  <h3>Color Flipper</h3> 
   </header>
 
 <body>
