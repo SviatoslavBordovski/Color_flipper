@@ -13,5 +13,5 @@ btn.addEventListener("click", function () { // function which is listening every
 });
 
 function getRandomNumber() { // function which is creating a random number depending on the 'hex' array length
-    return Math.floor(Math.random() * hex.length); // number is rounded with 'math.floor' to avoid issues in the console
+    return Math.floor(Math.random() * hex.length); // number is rounded with 'math.floor' to avoid issues in console
 }
