@@ -2,7 +2,7 @@
 <html>
   
   <header> 
-  <h3>Color Flipper</h3> 
+  <h3>Color Flipper app</h3> 
   </header>
 
 <body>
