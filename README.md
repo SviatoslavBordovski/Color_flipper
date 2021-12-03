@@ -8,7 +8,7 @@
 <body>
 
   <div>
-<p>Sometimes it is not so easy or possible to find the right color which is needed for a specific label, button and navbar.</p>
+<p>Sometimes it is not really easy or even possible to find the right color which is needed for a specific label, button and navbar.</p>
 <p><code>Color flipper</code> project is easily solving the problem :wink:</p>
 <ul>
 <li>Two JS scripts</li>
