@@ -9,7 +9,7 @@
 
   <div>
 <p>Sometimes it is not so easy or possible to find the right color which is needed for a specific label, button and navbar.</p>
-<p><code>Color_flipper</code> project is easily solving this problem :wink:</p>
+<p><code>Color_flipper</code> project is easily solving the problem :wink:</p>
 <ul>
 <li>Two JS scripts</li>
 <li>A bit of HTML tags</li>
