@@ -2,7 +2,7 @@
 <html>
   
   <header> 
-  <h3>Color Flipper</h3> 
+  <h3>Color Flipper https://sviatoslavbordovski.github.io/Color_flipper/</h3> 
   </header>
 
 <body>
